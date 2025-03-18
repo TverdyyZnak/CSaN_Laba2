@@ -9,9 +9,9 @@ class Laba2
 {
     static void Main(string[] args)
     {
-        args = new string[1];
-        Console.Write("Введите IP-адрес или доменное имя: ");
-        args[0] = Console.ReadLine();
+        //args = new string[1];
+        //Console.Write("Введите IP-адрес или доменное имя: ");
+        //args[0] = Console.ReadLine();
 
         if (args.Length < 1)
         {

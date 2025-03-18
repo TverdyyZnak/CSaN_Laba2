@@ -1,0 +1,7 @@
+D:\.Проекты БГУИР\КСиС\Labs\Laba2\Laba2\bin\Release\Laba2.exe.config
+D:\.Проекты БГУИР\КСиС\Labs\Laba2\Laba2\bin\Release\Laba2.exe
+D:\.Проекты БГУИР\КСиС\Labs\Laba2\Laba2\bin\Release\Laba2.pdb
+D:\.Проекты БГУИР\КСиС\Labs\Laba2\Laba2\obj\Release\Laba2.csproj.AssemblyReference.cache
+D:\.Проекты БГУИР\КСиС\Labs\Laba2\Laba2\obj\Release\Laba2.csproj.CoreCompileInputs.cache
+D:\.Проекты БГУИР\КСиС\Labs\Laba2\Laba2\obj\Release\Laba2.exe
+D:\.Проекты БГУИР\КСиС\Labs\Laba2\Laba2\obj\Release\Laba2.pdb
